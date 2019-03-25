@@ -1,0 +1,33 @@
+body,html{
+    height: 100%;
+    margin:0 auto;
+}   
+.section1{
+    background: url(../img/maxresdefault.jpg);
+    width:100%; 
+    height: 100%;
+    text-align: center;
+}
+.judul{
+    font-family: times new roman;
+    font-size: 60px;
+    color: black;
+    border-bottom: solid 4px black
+}.subjudul{
+    font-family: times new roman;
+    font-size: 40px;
+    color: gray;
+}
+.section2{
+    background: white; 
+    padding: 100px 0px;
+}
+.inside{
+    font-family: arial;
+    font-size: 60px;
+    color: black;
+}.insider{
+    font-family: arial;
+    font-size: 40px;
+    color: gray;
+}
