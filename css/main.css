@@ -1,0 +1,125 @@
+body,html{
+    height: 100%;
+    margin:0 auto;
+}
+.link{
+    color: black; 
+    padding: 10px 20px;
+    font-family: arial;
+}
+.link:hover{
+    background: black;
+    color: white;
+    font-style: italic;
+    font-family: arial;
+}
+.link:checked{
+    background: dimgray;
+}
+.link:active{
+    background: dimgray;
+}
+.link2{
+    color: white; 
+    padding: 10px 20px;
+}
+.link2:hover{
+    background: white;
+    color: black;
+    font-family: arial;
+    font-style: italic;
+}
+.link2:checked{
+    background: dimgray;
+}
+.link2:active{
+    background: dimgray;
+}
+.section1{
+    background: url(../img/bback.png);
+    width:100%; 
+    height: 100%;
+    text-align: center;
+}
+.judul{
+    font-family: arial;
+    font-style: italic;
+    font-size: 60px;
+    color: white;
+}
+.subjudul{
+    font-family: arial;
+    font-size: 25px;
+    color: dimgray;
+}
+.section2{
+    background: white; 
+    padding: 100px 0px;
+}
+.inside{
+    font-family: arial;
+    font-style: italic;
+    font-size: 60px;
+    color: black; 
+}
+.insider{
+    font-family: arial;
+    font-size: 25px; 
+    color: dimgray;
+}
+.section3{
+    background: black; 
+    padding: 100px 0px;
+}
+.col-warna1{
+    background: black;
+}
+.col-warna2{
+    background: black;
+    align-content: center;
+}
+.headercoy{
+    text-align: center;
+    font-size: 30px; 
+    font-family: arial;
+    color: white;
+}
+.kolom{
+    font-family: arial;
+    font-style: italic;
+    font-size: 60px;
+    color: white;
+    margin: auto;
+    background: black;
+}
+.kolom2{
+    font-family: arial;
+    font-style: italic;
+    font-size: 25px;
+    color: black;
+    margin: auto;
+    background: black;
+}
+.kolom3{
+    background: white;
+    color: white;
+    font-size: 5px;
+}
+.kolom4{
+    font-family: arial;
+    font-style: italic;
+    font-size: 60px;
+    color: black;
+    margin: auto;
+    background: white;
+}
+.kolom5{
+    background: white;
+    color: white;
+}
+.subjudul2{
+    font-family: arial;
+    font-size: 16px;
+    color: dimgray;
+}
+}
